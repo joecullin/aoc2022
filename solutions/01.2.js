@@ -18,12 +18,12 @@ const run = async (params) => {
     });
     elves.push([...elf]);
 
-    const answer = elves.map(elf => {
+    const sortedTotals = elves.map(elf => {
         return elf.reduce(computeSum);
     })
-    .sort((a,b) => a - b)
-    .pop();
+    .sort((a,b) => a - b);
 
+    const answer = sortedTotals.pop() + sortedTotals.pop() + sortedTotals.pop();
     console.log(`answer: ${answer}`);
 
 };
