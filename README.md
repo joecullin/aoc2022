@@ -32,6 +32,7 @@ npm run lint && ./run.js --puzzle=1.2 --input=./inputs/01.sample.txt
     * https://github.com/joecullin/aoc2018
 * 2019:
     * Comfortable in node by now, but still learning. Stopped after day 16 due to other demands on my time.
+    * Made a trophy -- https://github.com/joecullin/aoc2019#my-goals-this-year -- but didn't win it.
     * https://github.com/joecullin/aoc2019
 * 2020:
     * Got all 50 stars! 
