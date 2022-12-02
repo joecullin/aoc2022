@@ -20,9 +20,9 @@ If you want to use a different input, specify a file with the `--input` paramete
 ./run.js --puzzle=1.2 --input=./inputs/01.sample.txt
 ```
 
-Since I usually work on these in vi, the one thing I miss from vscode is the instant linting. I usually run like this:
+Since I usually work on these in vi, the one thing I miss from vscode is the instant linting. I usually run like this, so I can see warnings but don't have to fix them right away.
 ```
-npm run lint && ./run.js --puzzle=1.2 --input=./inputs/01.sample.txt
+npm run lint; ./run.js --puzzle=1.2 --input=./inputs/01.sample.txt
 ```
 
 ## Previous years
