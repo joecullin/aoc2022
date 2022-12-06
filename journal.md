@@ -3,6 +3,12 @@
 I'm in a private leaderboard with some https://www.barracuda.com/ colleagues.
 
 ---
+## Day 6
+
+Grateful for an easy one (and a very easy part 2) after the morning I've had! (Christmas tree fell over last night!)
+
+
+---
 ## Day 5
 
 This input makes me wish I'd chosen to do the challenges in Perl this year :)
