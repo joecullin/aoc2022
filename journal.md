@@ -3,6 +3,17 @@
 I'm in a private leaderboard with some https://www.barracuda.com/ colleagues.
 
 ---
+## Day 8
+
+Definitely not elegant.
+
+Had my first "misunderstood the problem" challenge. Multiple layers of it. That's why my part 1 is so needlessly complex. Eventually figured out the gap, and just adjusted my code a bit to follow the right rules. That rendered my optimization ideas useless, but it wasn't worth simplifying the code to get rid of them.
+
+For part two I threw much of that away and started fresh.
+
+In both cases, it really helped to have a simple grid print function. Copied that from last year's code.
+
+---
 ## Day 6
 
 Grateful for an easy one (and a very easy part 2) after the morning I've had! (Christmas tree fell over last night!)
