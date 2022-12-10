@@ -3,6 +3,16 @@
 I'm in a private leaderboard with some https://www.barracuda.com/ colleagues.
 
 ---
+## Day 10
+
+Second day in a row that I've used a "simplify things while reading input" approach.
+
+Yesterday had a bunch of instructions like "up 4", "down 3", "left 1." I expanded those early, translating to a simple list of single steps: "up, up, up, up, down, down, down, left."
+
+Same thing today: there was one type of op that took 2 cycles, and the first cycle was effectively a no-op. So I just inserted that as an extra no-op while reading the input.
+
+
+---
 ## Day 8
 
 Definitely not elegant.
