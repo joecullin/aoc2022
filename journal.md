@@ -11,6 +11,7 @@ Yesterday had a bunch of instructions like "up 4", "down 3", "left 1." I expande
 
 Same thing today: there was one type of op that took 2 cycles, and the first cycle was effectively a no-op. So I just inserted that as an extra no-op while reading the input.
 
+This allowed me to keep the main processing code a bit simpler and easier to understand.
 
 ---
 ## Day 8
