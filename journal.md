@@ -3,6 +3,17 @@
 I'm in a private leaderboard with some https://www.barracuda.com/ colleagues.
 
 ---
+## Day 11
+
+Probably my last day for 2022.
+
+Back on Nov 30, I thought about skipping this year's challenge altogether. The AOC start happened to coincide with the final day of a huge home renovation project. I did 40+ hours/week of plumbing, drywall, electric, painting, flooring, etc. over the last nine months. Still have work to do on that, but I pushed myself to the brink of burnout and I settled on a specific target (bathroom tile done) before taking a couple-month winter break.
+
+Now we're in the stretch where some problems take all night to figure out, and I'm just not enjoying it.
+
+Committing a working part 1 solution and a couple abandoned attempts at part 2. I'm sure there's some math trick I'm missing for part 2, but I didn't want to google spoilers.
+
+---
 ## Day 10
 
 Second day in a row that I've used a "simplify things while reading input" approach.
